@@ -82,3 +82,6 @@ While deep learning models work well for **complex, unstructured data**, structu
 - **Deep learning was not the best approach for this problem.**
 - **A different machine learning model** (e.g., XGBoost) might achieve **higher accuracy** and better interpretability.
 
+---
+
+- Used AI to help me with creating this README file / Report. Also to get recommendations for how to optimize preformance of the model.
