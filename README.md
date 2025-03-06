@@ -1,6 +1,4 @@
-# Report
-
-# AlphabetSoupCharity Deep Learning Model
+# AlphabetSoupCharity Deep Learning Model Report
 
 ## **Overview**
 This project aims to build and optimize a deep learning model to predict whether applicants for funding from AlphabetSoupCharity will be successful. The goal was to achieve an accuracy of **at least 75%** using a **neural network model (deep learning)**.
