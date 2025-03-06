@@ -63,12 +63,6 @@ This project aims to build and optimize a deep learning model to predict whether
 
 ---
 
-### **Training Performance**
-**Training Accuracy & Loss Graphs**
-![Training Accuracy](images/training_accuracy.png)
-![Training Loss](images/training_loss.png)
-
----
 
 ## **Alternative Model Recommendation**
 While deep learning models work well for **complex, unstructured data**, structured tabular data often performs better with **tree-based models** like **Random Forest or XGBoost**.
