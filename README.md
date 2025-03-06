@@ -21,6 +21,8 @@ This project aims to build and optimize a deep learning model to predict whether
   - `ASK_AMT`
 
 #### **Removed Variables**
+![image](https://github.com/user-attachments/assets/cb85d84c-a119-4f83-a553-f1490d4e73e3)
+
 - The following columns were removed as they are **not useful for predictions**:
   - `EIN` (Employer Identification Number)
   - `NAME` (Applicant’s Name)
