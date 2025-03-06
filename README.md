@@ -81,25 +81,8 @@ While deep learning models work well for **complex, unstructured data**, structu
 
 ---
 
-## **Next Steps**
-1. **Test XGBoost & Random Forest** and compare accuracy.
-2. **Improve Feature Engineering** (e.g., binning `ASK_AMT`).
-3. **Use PCA (Dimensionality Reduction)** to remove redundant features.
-4. **Experiment with Hyperparameter Tuning** to optimize model performance.
-
----
 
 ## **Final Thoughts**
 - **Deep learning was not the best approach for this problem.**
 - **A different machine learning model** (e.g., XGBoost) might achieve **higher accuracy** and better interpretability.
-
-🔍 **Future Work:** Implement XGBoost and compare performance.
-
----
-
-## **How to Run the Model**
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/AlphabetSoupCharity.git
-
 
